@@ -5,7 +5,7 @@
 
 # Hey, I'm Rayyan Khan 👋
 
-**`Security Engineer | Cloud & DevOps Enthusiast | Infrastructure Architect`**
+**`System Engineer | Cloud & DevOps Enthusiast | Infrastructure Architect`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan103/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raysportfolio.me/)
