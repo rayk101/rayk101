@@ -8,7 +8,7 @@
 **`System Engineer | Cloud & DevOps Enthusiast | Infrastructure Architect`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyankhan103/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raysportfolio.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://raysportfolio.me/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rkhan247@outlook.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/848660349347037226)
 
