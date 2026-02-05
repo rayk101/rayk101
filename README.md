@@ -64,7 +64,7 @@
 ![Sublist3r](https://img.shields.io/badge/Sublist3r-00979D?style=for-the-badge&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-4B275F?style=for-the-badge&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Infrastructure & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,41 +72,9 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-### 🔧 DevOps & Tools
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Zenoss](https://img.shields.io/badge/Zenoss-00A86B?style=for-the-badge&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rayk101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayk101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=FFFFFF" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayk101&theme=radical&hide_border=true&background=0D1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*Open to collaborating on security projects, cloud infrastructure, and DevOps automation.*
-
-![Visitors](https://komarev.com/ghpvc/?username=rayk101&color=FF4444&style=for-the-badge&label=Profile+Views)
-
-</div>
 
