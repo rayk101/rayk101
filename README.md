@@ -35,7 +35,6 @@
 ## 🏆 Awards & Achievements
 
 
-
 | | | |
 |:-----:|:------|:------------|
 | 🥇 | **1st Place** | BSides NYC — Pros vs Joes Competition |
