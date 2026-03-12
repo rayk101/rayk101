@@ -35,7 +35,7 @@
 ## 🏆 Awards & Achievements
 
 
-| Medal | Place | Competition |
+
 |:-----:|:------|:------------|
 | 🥇 | **1st Place** | BSides NYC — Pros vs Joes Competition |
 | 🥈 | **2nd Place** | NJIT Hackathon - BattleSnakes 2026 |
