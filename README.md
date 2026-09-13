@@ -46,96 +46,45 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 💻 Languages & Frameworks
 
-<img
-  src="https://skillicons.dev/icons?i=python,flask,js,ts,react,nodejs,tailwind,java,php,bash,html,css&theme=dark&perline=12"
-  alt="Languages and frameworks"
-/>
-
-<br>
-
-<sub>
-Python · Flask · JavaScript · TypeScript · React · Node.js · Tailwind CSS · Java · PHP · Bash · HTML5 · CSS3
-</sub>
-
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTRMNS4yMSA0LjQxNGwuMjEzIDIuNjIyIDEwLjEyNS4wMDItLjI1NSAyLjcxNkg2LjI0bC4yNiAyLjk3aDguOTIxbC0uMzggMy45MS00LjA1IDEuMDk1LTQuMDQtMS4wOTUtLjI2Mi0yLjkxaC0yLjlsLjUgNS42MTMgNi43MDIgMS44NjMgNi43LTEuODYgMS4xNTUtMTIuMzMtLjAwMi0uMDAySDQuOTlsLS4yLS4xOTdoMTQuMDF6Ii8+PC9zdmc+&logoColor=white)
 
 ### 🔐 Security & Penetration Testing
 
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" height="45" alt="Burp Suite"/>
-  <br><sub><b>Burp Suite</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="45" height="45" alt="Metasploit"/>
-  <br><sub><b>Metasploit</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45" alt="Wireshark"/>
-  <br><sub><b>Wireshark</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/splunk/65A637" width="45" height="45" alt="Splunk"/>
-  <br><sub><b>Splunk</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-  <img src="https://api.iconify.design/game-icons/hydra.svg?color=%23E53935" width="45" height="45" alt="Hydra"/>
-  <br><sub><b>Hydra</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://api.iconify.design/mdi/shield-search.svg?color=%23F59E0B" width="45" height="45" alt="Nikto"/>
-  <br><sub><b>Nikto</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://api.iconify.design/mdi/file-tree.svg?color=%2300BCD4" width="45" height="45" alt="Sublist3r"/>
-  <br><sub><b>Sublist3r</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://api.iconify.design/mdi/eye-search.svg?color=%23A855F7" width="45" height="45" alt="OSINT"/>
-  <br><sub><b>OSINT</b></sub>
-</td>
-</tr>
-</table>
-
-<br>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-990000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxYy01LjUgMC0xMCA0LjUtMTAgMTBzNC41IDEwIDEwIDEwIDEwLTQuNSAxMC0xMFMxNy41IDEgMTIgMXptMCA0YzEuMSAwIDIgLjkgMiAycy0uOSAyLTIgMi0yLS45LTItMiAuOS0yIDItMnptNiA5LjVjMCAuOC0uNyAxLjUtMS41IDEuNWgtOWMtLjggMC0xLjUtLjctMS41LTEuNXYtMWMwLTIuOCAyLjItNSA1LTVoMmMyLjggMCA1IDIuMiA1IDV2MXoiLz48L3N2Zz4=&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)
+![Sublist3r](https://img.shields.io/badge/Sublist3r-00979D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNS41IDE0aC0uNzlsLS4yOC0uMjdDMTUuNDEgMTIuNTkgMTYgMTEuMTEgMTYgOS41IDE2IDUuOTEgMTMuMDkgMyA5LjUgM1MzIDUuOTEgMyA5LjVzMi45MSA2LjUgNi41IDYuNWMxLjYxIDAgMy4wOS0uNTkgNC4yMy0xLjU3bC4yNy4yOHYuNzlsNSA0Ljk5TDIwLjQ5IDE5bC00Ljk5LTV6bS02IDBDNy4wMSAxNCA1IDExLjk5IDUgOS41UzcuMDEgNSA5LjUgNSAxNCA3LjAxIDE0IDkuNSAxMS45OSAxNCA5LjUgMTR6Ii8+PC9zdmc+&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B275F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiA0LjVDNyA0LjUgMi43MyA3Ljc4IDEgMTJjMS43MyA0LjIyIDYgNy41IDExIDcuNXM5LjI3LTMuMjggMTEtNy41Yy0xLjczLTQuMjItNi03LjUtMTEtNy41ek0xMiAxN2MtMi43NiAwLTUtMi4yNC01LTVzMi4yNC01IDUtNSA1IDIuMjQgNSA1LTIuMjQgNS01IDV6bTAtOGMtMS42NiAwLTMgMS4zNC0zIDNzMS4zNCAzIDMgMyAzLTEuMzQgMy0zLTEuMzQtMy0zLTN6Ii8+PC9zdmc+&logoColor=white)
 
 ### ☁️ Infrastructure & DevOps
 
-<img
-  src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,redhat,githubactions,mysql,mongodb,windows&theme=dark&perline=11"
-  alt="Infrastructure and DevOps tools"
-/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuMzc3djExLjM3Mkgwem0xMi42MjMgMEgyNHYxMS4zNzJIMTIuNjIzek0wIDEyLjYyM2gxMS4zNzdWMjRIMHptMTIuNjIzIDEyLjYyM0gyNFYyNEgxMi42MjN6Ii8+PC9zdmc+&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zenoss](https://img.shields.io/badge/Zenoss-00A86B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptMCAxNkg1VjVoMTR2MTR6TTcgMTBoMnYxSDd6bTAgM2gydjFIN3ptMCAzaDV2MUg3em04LTZ2MWgtNHYtMWg0em0wIDNoLTR2LTFoNHYxem0wIDNoLTR2LTFoNHYxeiIvPjwvc3ZnPg==&logoColor=white)
 
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="150">
-  <img src="https://cdn.simpleicons.org/windows/0078D4" width="42" height="42" alt="Active Directory"/>
-  <br><sub><b>Active Directory</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="https://cdn.simpleicons.org/jira/2684FF" width="42" height="42" alt="Jira"/>
-  <br><sub><b>Jira</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%2300A86B" width="42" height="42" alt="Zenoss"/>
-  <br><sub><b>Zenoss</b></sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<sub>
-AWS · Azure · Docker · Kubernetes · Terraform · Ansible · RHEL · Active Directory · GitHub Actions · MySQL · MongoDB · Jira · Zenoss
-</sub>
-
-</div>
