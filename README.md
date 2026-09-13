@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/rayk101/rayk101/main/banner.png" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/rayk101/rayk101/main/banner.gif" alt="Animated Japanese sakura forest" width="100%"/>
 
 # Hey, I'm Rayyan Khan 👋
 
