@@ -1,8 +1,10 @@
-<div align="center">
-
-<!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/rayk101/rayk101/main/banner.gif" alt="Animated Japanese sakura forest" width="100%"/>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rayk101/rayk101/main/banner.gif"
+    alt="Animated Japanese sakura forest"
+    width="100%"
+  />
+</p>
 # Hey, I'm Rayyan Khan 👋
 
 **`Systems Engineer | Cloud & DevOps | Infrastructure Architect`**
