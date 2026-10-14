@@ -46,6 +46,7 @@
 |:-----:|:------|:------------|
 | 🥇 | **1st Place** | BSides NYC — Pros vs Joes Competition |
 | 🥇 | **1st Place** | KeanU AI Hackathon <br> &nbsp;&nbsp;&nbsp;↳ Won MLH Best Use of Eleven Labs |
+| 🥇 | **1st Place** | Columbia DivHacks — Capital One Track |
 | 🥈 | **2nd Place** | NJIT Hackathon - BattleSnakes 2026 |
 | 🥉 | **3rd Place** | Rutgers Health Hackathon — AWS Med-Ed Track |
 
